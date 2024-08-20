@@ -58,3 +58,27 @@ body{
     align-items: center;
     margin: 20px;
 }
+.arrow{
+    background-size: cover;
+    background-image: url(pitr_red_arrows_set_1.png);
+    width: 75px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    left: 140px;
+    bottom: 50px;
+}
+.man{
+    background-size: cover;
+    background-image: url(man.png);
+    width: 75px;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    left: 250px;
+    bottom: 1px;
+}
