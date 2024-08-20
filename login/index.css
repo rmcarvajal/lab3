@@ -1,0 +1,64 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-image: url(https://d7hftxdivxxvm.cloudfront.net/?height=1440&quality=80&resize_to=fit&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F2RNK1P0BYVrSCZEy_Sd1Ew%252F3417757448_4a6bdf36ce_o.jpg&width=1440);
+
+}
+.sign{
+    background-color: rgb(255, 255, 255);
+    height: 600px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10%;
+
+}
+.inps{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+}
+.array{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+#face{
+    border-radius: 50%;
+    background-color: rgb(44, 44, 219);
+    height: 35px;
+    width: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+}
+#tweet{
+    border-radius: 50%;
+    background-color: rgb(3, 175, 255);
+    height: 35px;
+    width: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+}
+#goog{
+    border-radius: 50%;
+    background-color: rgb(219, 44, 44);
+    height: 35px;
+    width: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+}

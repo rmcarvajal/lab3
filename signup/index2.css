@@ -1,0 +1,60 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-image: url(https://cdn-bnokp.nitrocdn.com/QNoeDwCprhACHQcnEmHgXDhDpbEOlRHH/assets/images/optimized/rev-21d3e9d/www.decorilla.com/online-decorating/wp-content/uploads/2022/03/Modern-Office-Interior-with-Open-Floor-Plan-1536x1024.jpeg);
+
+}
+.sign{
+    background-color: rgb(255, 255, 255);
+    height: 600px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    border-radius: 10%;
+
+}
+.img{
+    height: 600px;
+    width: 100%;
+    background-image: url(https://www.shutterstock.com/shutterstock/photos/55445056/display_1500/stock-photo-young-attractive-dangerous-woman-aiming-at-gold-fish-55445056.jpg);
+    background-size: cover;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+.inputs{
+    background-color: rgb(201, 193, 170);
+    height: 600px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    background-image: url(https://i1.sndcdn.com/artworks-YDgU6KNf10zHzK95-XXS6RQ-t500x500.jpg);
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    background-size: cover;
+}
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.bttn1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.bttn2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
